@@ -27,5 +27,5 @@ kill -9 <process id>
 
 by default it would run with swagger 
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/fastapi_knowledge_api.png?raw=true)
+![alt text](https://raw.githubusercontent.com/sgmoorthy/Knowledge_Graph_API/master/gitImages/fastapi_knowledge_api.png)
 
