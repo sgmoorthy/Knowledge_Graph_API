@@ -29,3 +29,6 @@ by default it would run with swagger
 
 ![alt text](https://raw.githubusercontent.com/sgmoorthy/Knowledge_Graph_API/master/gitImages/fastapi_knowledge_api.png)
 
+### Pull request
+
+follow template
